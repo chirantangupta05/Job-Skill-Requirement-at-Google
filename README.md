@@ -1,5 +1,5 @@
 # Job-Skill-Requirement-at-Google
-This is an exploratory analysis of the Google Job Skills dataset from Kaggle. The dataset can be found here:
+This is an exploratory analysis of the Google Job Skills dataset from Kaggle in R. The dataset can be found here:
 https://www.kaggle.com/niyamatalmass/google-job-skills
 
 The main focus of the work is an analysis of the data. The dataset initially has 7 columns:
